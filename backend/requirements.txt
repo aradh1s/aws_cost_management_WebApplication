@@ -1,0 +1,7 @@
+flask
+boto3
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
